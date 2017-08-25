@@ -1,0 +1,32 @@
+html {
+	font-size: 14px;
+}
+
+.body {
+	background-color: lavenderblush;
+	font-family: "Work Sans", Sans Serif;
+	padding-top: 5rem;	
+	padding-bottom: 5rem;
+}
+
+span {
+	font-weight: bold;
+	color: darkblue;
+}
+
+.match {
+	font-weight: bold;
+	color: darkblue;
+}
+
+.card {
+	font-weight: 900;
+	font-size: 7rem;
+	text-align: center;
+	color: white;
+	height: 11rem;
+	width: 22%;
+	background-color: rgb(32, 64, 86);
+	border: 10px solid white;
+	border-radius: 8px;
+}
