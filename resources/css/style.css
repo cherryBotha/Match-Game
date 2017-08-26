@@ -9,6 +9,8 @@ html {
 	padding-bottom: 5rem;
 }
 
+
+
 span {
 	font-weight: bold;
 	color: darkblue;
@@ -26,6 +28,6 @@ span {
 	height: 11rem;
 	width: 22%;
 	background-color: rgb(32, 64, 86);
-	border: 10px solid white;
+	border: 1px solid white;
 	border-radius: 8px;
 }
